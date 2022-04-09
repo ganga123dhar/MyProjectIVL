@@ -6,3 +6,8 @@ lkdsjfhg;ldkjkjfhg;kdfjlg
 d;lfkgh;dflkgh;dflgh
 deflkdh;flkhj;dfghd;flkgh
 d;flkh'dlfkgh;dlfkgh
+
+providers "aws" {
+region =us-east-1
+}
+
